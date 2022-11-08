@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in OSINT
-- 💞️ I’m looking to collaborate on OSINT tools
+- 💞️ I’m looking to collaborate on OSINT and ethcial hacking projects
 - 📫 How to reach me:
 - Email: Blackhat@v02d.com
 - Website(in development): V02D.com
